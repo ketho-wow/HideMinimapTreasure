@@ -1,0 +1,5 @@
+## Interface: 90002
+## Version: 0.1
+## Title: HideMinimapTreasure
+
+HideMinimapTreasure.lua
